@@ -1,4 +1,4 @@
-```plaintext
+
 [![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows)](https://www.microsoft.com/en-us/windows)
 [![Actual Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/Crypto-mining-GPU/.github/releases/)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F72-green)](https://www.virustotal.com/)
